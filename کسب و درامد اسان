@@ -1,0 +1,21 @@
+apt update && apt upgrade -y 
+
+pkg install php && pkg install git 
+
+termux-setup-storage 
+
+cd /sdcard/Download/ClipClapsScript
+
+ ls 
+
+php bot.php
+
+پسورد 👇
+HD75NDK96TFY5E9RTV4S1SMEJBB70X3IM12QZVK62CNIQJAPLA
+
+برنامه های مورد نیاز
+
+Httpcanary
+Clip clups
+Turbo editor
+Termox
